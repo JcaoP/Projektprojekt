@@ -1,0 +1,6 @@
+public class Test {
+
+    public static void main(String[] args) {
+        System.out.println("Mahad, Johannes, Christian og Kenneth er seje!");
+    }
+}
